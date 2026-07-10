@@ -154,7 +154,7 @@ Content management system with full CRUD for posts and role-based access control
 
 <div align="center">
 
-📧 [ayeshaaemannn@gmail.com](mailto:ayeshaaemannn@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-eman-44b5a42b8/) &nbsp;|&nbsp; 🌐 [Portfolio](https://ayeshaaemannn.github.io/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/AyeshaaEmannnn)
+📧 [ayeshaaemannn@gmail.com](mailto:ayeshaaemannn@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-eman-44b5a42b8/) &nbsp;|&nbsp; 🌐 [Portfolio](https://ayeshaaemannnn.github.io/ayeshaaemannn.github.io/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/AyeshaaEmannnn)
 
 </div>
 
