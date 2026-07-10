@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=220&section=header&text=Ayesha%20Eman&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Django%20Backend%20Developer%20%7C%20Software%20Engineer%20%7C%20API%20Architect&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Building+scalable+Django+%2B+DRF+backends;Architecting+secure%2C+production-ready+APIs;Real-time+systems+with+WebSockets+%2B+Channels;Turning+ideas+into+deployed%2C+working+products" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Building+scalable+Django+%2B+DRF+backends;Architecting+secure%2C+production-ready+APIs;Real-time+systems+with+WebSockets+%2B+Channels;Turning+ideas+into+deployed%2C+working+products" alt="Typing SVG" /></a>
 
 <br/>
 
-📧 [ayeshaaemannn@gmail.com](mailto:ayeshaaemannn@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-eman-44b5a42b8/) &nbsp;|&nbsp; 🌐 [Portfolio](https://ayeshaaemannnn.github.io/ayeshaaemannn.github.io/)
+📧 [ayeshaaemannn@gmail.com](mailto:ayeshaaemannn@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-eman-44b5a42b8/) | 🌐 [Portfolio](https://ayeshaaemannnn.github.io/ayeshaaemannn.github.io/)
 
 </div>
 
@@ -154,7 +154,7 @@ Content management system with full CRUD for posts and role-based access control
 
 <div align="center">
 
-📧 [ayeshaaemannn@gmail.com](mailto:ayeshaaemannn@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-eman-44b5a42b8/) &nbsp;|&nbsp; 🌐 [Portfolio](https://ayeshaaemannnn.github.io/ayeshaaemannn.github.io/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/AyeshaaEmannnn)
+📧 [ayeshaaemannn@gmail.com](mailto:ayeshaaemannn@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-eman-44b5a42b8/) | 🌐 [Portfolio](https://ayeshaaemannnn.github.io/ayeshaaemannn.github.io/) | 💻 [GitHub](https://github.com/AyeshaaEmannnn)
 
 </div>
 
