@@ -6,7 +6,7 @@
 
 <br/>
 
-📧 [ayeshaaemannn@gmail.com](mailto:ayeshaaemannn@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-eman-44b5a42b8/) &nbsp;|&nbsp; 🌐 [Portfolio](https://ayeshaaemannn.github.io/)
+📧 [ayeshaaemannn@gmail.com](mailto:ayeshaaemannn@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-eman-44b5a42b8/) &nbsp;|&nbsp; 🌐 [Portfolio](https://ayeshaaemannnn.github.io/ayeshaaemannn.github.io/)
 
 </div>
 
